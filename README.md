@@ -1,10 +1,10 @@
 # MS Project 2019 Setup
-Instructions on how to install and setup MS Project 2019
+This repo contains the setup binary installation and configuration files for MS Project 2019.
 
-## Download MS Project
-Go to https://www.microsoft.com/en-us/download/details.aspx?id=49117
+You can watch the installation instructions at 
 
-Click on the Download button and download it to your desktop
+https://www.youtube.com/watch?v=FMVFUJm1H_Y
+
 
 
 
