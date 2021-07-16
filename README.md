@@ -5,6 +5,9 @@ You can watch the installation instructions at
 
 https://www.youtube.com/watch?v=FMVFUJm1H_Y
 
+The setup installers are placed in the MS Project 2019 folder of this repo.
+
+
 
 
 
